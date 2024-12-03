@@ -1,2 +1,5 @@
 ## Github Stats
-[![Midnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMidnight0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=TheMidnight0&show_icons=true&hide_border=true&theme=transparent&title_color=9043ec&icon_color=9043ec&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats light](https://github-readme-stats.vercel.app/api?username=TheMidnight0&show_icons=true&hide_border=true&theme=transparent&title_color=9043ec&icon_color=9043ec&text_color=000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnight0&show_icons=true&hide_border=true&theme=transparent&title_color=9043ec&icon_color=9043ec&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnight0&show_icons=true&hide_border=true&theme=transparent&title_color=9043ec&icon_color=9043ec&text_color=000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
